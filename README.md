@@ -6,6 +6,31 @@ A RAG bot is short for Retrieval-Augmented Generation. This means that we are go
 
 ![image](https://github.com/Shashank1130/Chat-With-Websites/assets/107529934/e52fc490-b579-466c-958b-f3101e08da50)
 
+## Installation
+Ensure you have Python installed on your system. Then clone this repository:
 
+```bash
+git clone [repository-link]
+cd [repository-directory]
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create your own .env file with the following variables:
+
+```bash
+OPENAI_API_KEY=[your-openai-api-key]
+```
+
+## Usage
+To run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
 
 
