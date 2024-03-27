@@ -1,4 +1,11 @@
-# Chat With Websites from URL
+# Chat With a Websites from URL
+This GitHub repository hosts the Chat With Websites project. It is a chatbot capable of interacting with websites, extracting information, and communicating in a user-friendly manner. The project seamlessly integrates the powerful capabilities of LangChain with a Streamlit graphical user interface to enhance the overall user experience.
+
+## Features
+- **Website Interaction**: The chatbot uses the latest version of LangChain to interact with and extract information from various websites.
+- **Intelligent Communication**: Communicate with the chatbot naturally and receive relevant responses.
+- **Streamlit GUI**: A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.
+- **Python-based**: Entirely coded in Python.
 
 ## Brief explanation of how RAG works
 
