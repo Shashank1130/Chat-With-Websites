@@ -24,8 +24,8 @@ A RAG bot is short for Retrieval-Augmented Generation. This means that we are go
 Ensure you have Python installed on your system. Then clone this repository:
 
 ```bash
-git clone [repository-link]
-cd [repository-directory]
+git clone https://github.com/your-username/chat-with-websites.git
+cd chat-with-websites
 ```
 
 Install the required packages:
