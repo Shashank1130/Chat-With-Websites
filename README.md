@@ -7,8 +7,8 @@ This GitHub repository hosts the Chat With Websites project. It is a chatbot cap
 - **Streamlit GUI**: A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.
 - **Python-based**: Entirely coded in Python.
 
-## How it Looks and Works (demo)
-
+## How it Looks and Works 
+For demo play video!
 https://github.com/Shashank1130/Chat-With-Websites/assets/107529934/8c266f39-033b-41b7-bb58-fbeec24c9dba
 
 
