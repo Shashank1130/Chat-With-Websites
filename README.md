@@ -7,6 +7,12 @@ This GitHub repository hosts the Chat With Websites project. It is a chatbot cap
 - **Streamlit GUI**: A clean and intuitive user interface built with Streamlit, making it accessible for users with varying levels of technical expertise.
 - **Python-based**: Entirely coded in Python.
 
+## How it Looks and Works
+
+https://github.com/Shashank1130/Chat-With-Websites/assets/107529934/68974a23-2812-4a98-8e2f-8dcc9711da44
+
+
+
 ## Brief explanation of how RAG works
 
 A RAG bot is short for Retrieval-Augmented Generation. This means that we are going to "augment" the knowledge of our LLM with new information that we are going to pass in our prompt. We first vectorize all the text that we want to use as "augmented knowledge" and then look through the vectorized text to find the most similar text to our prompt. We then pass this text to our LLM as a prefix.
