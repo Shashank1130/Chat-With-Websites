@@ -9,7 +9,7 @@ This GitHub repository hosts the Chat With Websites project. It is a chatbot cap
 
 ## How it Looks and Works
 
-https://github.com/Shashank1130/Chat-With-Websites/assets/107529934/8c266f39-033b-41b7-bb58-fbeec24c9dba
+[Watch the demo video]https://github.com/Shashank1130/Chat-With-Websites/assets/107529934/8c266f39-033b-41b7-bb58-fbeec24c9dba
 
 
 ## Brief explanation of how RAG works
