@@ -32,7 +32,7 @@ def get_vectorstore_from_url(url):
     return vector_store
 
 
-# Function to get the related chunks from the vector store
+# Function to modify the initial search query into more refined query and get related documents from the vectorstore
 def get_context_retriever_chain(vector_store):
     llm = ChatOpenAI()
     # create retriever
