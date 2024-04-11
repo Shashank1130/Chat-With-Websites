@@ -1,4 +1,4 @@
-# Chat With a Websites from URL
+# Chat With Websites
 This GitHub repository hosts the Chat With Websites project. It is a chatbot capable of interacting with websites, extracting information, and communicating in a user-friendly manner. The project seamlessly integrates the powerful capabilities of LangChain with a Streamlit graphical user interface to enhance the overall user experience.
 
 ## Features
